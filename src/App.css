@@ -1,0 +1,66 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: rgb(54, 54, 54);
+}
+
+
+.boxTarefas{
+  width: 80%;
+  max-width: 800px;
+  background-color: rgb(214, 214, 214);
+  padding: 30px 50px;
+  margin: 10px auto;
+  border-radius: 10px;
+}
+
+.boxTarefas h2{
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.boxTarefas p{
+  cursor: pointer;
+  font-size: 15px;
+  padding: 8px 10px;
+  border-bottom: 2px dotted #ccc;
+}
+
+.addTarefa{
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  background-color: indigo;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  border-radius: 25px;
+  color: rgb(214, 214, 214);
+  text-align: center;
+  font-size: 36px;
+  line-height: center;
+}
+
+.modal{
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 9999;
+}
+
+.modalContent{
+  max-width: 600px;
+  padding: 40px 20px;
+  background-color: rgb(214, 214, 214);
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform:translate(-50% -50%);
+}
