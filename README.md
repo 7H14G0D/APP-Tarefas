@@ -1,4 +1,4 @@
-# APP COM REACT JS - DANKI CODE YOUTUBE
+# App com ReactJS que aprendi no video do Danki Code.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
