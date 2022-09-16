@@ -1,4 +1,8 @@
 # App com ReactJS que aprendi no video do Danki Code.
+## App com ReactJS que aprendi no video do Danki Code.
+Fiz algumas alterações de cores.
+![7H14G0D](https://i.imgur.com/esOUbaI.png "APP - Tarefas")
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
