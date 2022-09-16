@@ -1,5 +1,4 @@
 # App com ReactJS que aprendi no video do Danki Code.
-## App com ReactJS que aprendi no video do Danki Code.
 Fiz algumas alterações de cores.
 ![7H14G0D](https://i.imgur.com/esOUbaI.png "APP - Tarefas")
 
